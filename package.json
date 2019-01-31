@@ -2,7 +2,7 @@
   "name": "react-native-majidux",
   "version": "1.0",
   "description": "Using percentage to pixel.",
-  "main": "Dimension.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/majidux/percentageToPixel.git"
