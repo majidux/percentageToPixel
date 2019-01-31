@@ -1,0 +1,26 @@
+{
+  "name": "react-native-majidux",
+  "version": "1.0",
+  "description": "Using percentage to pixel.",
+  "main": "Dimension.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majidux/percentageToPixel.git"
+  },
+  "keywords": [
+    "react-native",
+  ],
+  "author": "Majid Darvish <majidpayamgostar@gmail.com> (https://github.com/majidux)",
+  "contributors": [
+    "Tasos Maroudas <majidpayamgostar@gmail.com> (https://github.com/majidux)",
+    "Chrysa Kaia <majidpayamgostar@gmail.com> (https://github.com/majidux)"
+  ],
+  "license": "payamgostar",
+  "bugs": {
+    "url": "https://github.com/majidux/percentageToPixel/issues"
+  },
+  "homepage": "https://github.com/majidux/percentageToPixel/#readme",
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  }
+}
